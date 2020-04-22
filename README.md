@@ -9,7 +9,7 @@ Simply put, it's an open source tool maintained by Hashicorp which allows you to
 ## How to use
 To begin clone the repository git clone:
 ```
-git@github.com:atahar123/NodeApp.git
+git@github.com:atahar123/MongoEnv.git
 ```
 
 In Terminal, to clone the cookbooks:
